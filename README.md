@@ -1,4 +1,4 @@
-# taskify-prototype
+# Taskify Prototype
 Mas tolong ke depan ambil sembako mas
 
-Gakmau gakmau gakmau
+Gakmau mas gakmau gakmau
